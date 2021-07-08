@@ -1,0 +1,26 @@
+<main id="main">
+  <h1 id="title">Mahatma Gandhi~</h1>
+  <h4>An eye for eye only ends up making the whole world blind.</h4>
+  <div id="img-div">
+    <img id="image" src="https://www.mkgandhi.org/images/gandhi21.jpg" alt="Mahatma Gandhi on the way to the Dandi march with his supporters" />
+    <div id="img-caption">
+     Mahatma Gandhi (in the center without a cap on his head) leading his supporters to a march to Dandi in protest of unfair British tax laws on salt.</div>
+  </div>
+   <section id="tribute-info">
+    <h3 id="headline">Some dates that mark important steps of Gandhi towards Indian independance</h3>
+     <p>20 July	1906	Took the vow of Brahmcharya.<br/>
+11 September	1906	Advent of Satyagraha at Empire Theatre, Johannesburg..<br/>
+1 October	1906	Left for England as a member of the Indian Delegation.<br/>
+22 March	1907	Asiatic Registration Bill passed in Transvaal Parliament. <br/>
+ 	1908	The term 'Satyagraha' adopted based on Maganlal Gandhi's fomulation 'Sadagraha'.<br/>
+10 January	1908	Awarded two months' simple imprisonment for refusal to obtain registration.<br/>
+          <h3>
+     Know more about Gandhi and how he won the world with his ideologies of non-violence.
+      <a
+        id="tribute-link"
+        href="https://www.mkgandhi.org/"
+        target="_blank"
+        >All about MAHATMA GANDHI</a>
+    </h3>
+  </section>
+</main>
